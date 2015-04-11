@@ -74,10 +74,13 @@ public class MainActivity extends ActionBarActivity {
 
             } catch (FileNotFoundException e) {
                 e.printStackTrace();
+                System.out.println("Penis");
             } catch (IOException e) {
                 e.printStackTrace();
+                System.out.println("Penis");
             } catch (ClassNotFoundException e) {
                 e.printStackTrace();
+                System.out.println("Penis");
             }
 
 
@@ -86,10 +89,13 @@ public class MainActivity extends ActionBarActivity {
 
         } catch (MalformedURLException e){
             e.printStackTrace();
+            System.out.println("Penis");
         } catch (IOException e){
             e.printStackTrace();
+            System.out.println("Penis");
         } catch (JSONException e){
             e.printStackTrace();
+            System.out.println("Penis");
         }
     }
 
